@@ -1,6 +1,6 @@
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Machine-Learning,Python,Tensorflow)](https://github.com/emirhanai)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20,%20Framework%20and%20Devops&badges=Python,Java,Tensorflow,C,Linux,PyTorch,Azure,AWS,Scikit-Learn,GitHub/Git)](https://github.com/emirhanai)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20,%20Framework%20and%20DevOps&badges=Python,Java,Tensorflow,C,Linux,PyTorch,Azure,AWS,Scikit-Learn,GitHub/Git)](https://github.com/emirhanai)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=emirhanai&repo=COVID-19-Test-AI-Software&locale=en)](https://github.com/emirhanai/COVID-19-Test-AI-Software)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=emirhanai&repo=NASA-Project-Plastic-Marine-Debris-Classification-Machine-Learning-Software&locale=en)](https://github.com/emirhanai/NASA-Project-Plastic-Marine-Debris-Classification-Machine-Learning-Software)
