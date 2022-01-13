@@ -3,6 +3,7 @@
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20,%20Framework%20and%20DevOps&badges=Python,Java,Tensorflow,C,Linux,PyTorch,Azure,AWS,Scikit-Learn,GitHub/Git)](https://github.com/emirhanai)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=emirhanai&repo=COVID-19-Test-AI-Software&locale=en)](https://github.com/emirhanai/COVID-19-Test-AI-Software)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=emirhanai&repo=Cryptocurrency-Prediction-with-Artificial-Intelligence&locale=en)](https://github.com/emirhanai/Cryptocurrency-Prediction-with-Artificial-Intelligence)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=emirhanai&repo=NASA-Project-Plastic-Marine-Debris-Classification-Machine-Learning-Software&locale=en)](https://github.com/emirhanai/NASA-Project-Plastic-Marine-Debris-Classification-Machine-Learning-Software)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=emirhanai&repo=Cell-Instance-Segmentation-Deep-Learning-Project-Emirhan-BULUT&locale=en)](https://github.com/emirhanai/Cell-Instance-Segmentation-Deep-Learning-Project-Emirhan-BULUT)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=emirhanai&repo=Covid-19-Mu-Variant-B.1.621-Prediction-and-Classification-Artificial-Intelligence-Machine-Learning&locale=en)](https://github.com/emirhanai/Covid-19-Mu-Variant-B.1.621-Prediction-and-Classification-Artificial-Intelligence-Machine-Learning)
