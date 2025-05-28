@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/🧠_MENSA_IQ-135-FFD700?style=for-the-badge" alt="IQ 135">
   <img src="https://img.shields.io/badge/🚀_Experience-10+_Years-00C853?style=for-the-badge" alt="Experience">
   <img src="https://img.shields.io/badge/🌍_Languages-4-2196F3?style=for-the-badge" alt="Languages">
-  <img src="https://img.shields.io/badge/📍_Location-Istanbul,_Turkey-E91E63?style=for-the-badge" alt="Location">
+  <img src="https://img.shields.io/badge/📍_Location-Cologne,_Germany-E91E63?style=for-the-badge" alt="Location">
 </div>
 
 <br>
