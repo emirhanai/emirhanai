@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Julian+Emirhan+Bulut;AI+Engineer+%7C+Founder+of+PIYA.AI;Creator+of+AI+Blood+Test+Analyzer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+👋+I'm+Julian+Emirhan+Bulut;AI+Engineer+%7C+Founder+of+PIYA.AI+%7C+Inventor+of+AI+Blood+Test+Analyzer" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=header&fontSize=0" alt="Header" />
 </div>
 
 <div align="center">
@@ -23,18 +27,38 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="AI Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="AI Brain Animation" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+### 🚀 **Transforming Healthcare with AI**
 
 I'm a **Results-driven AI Engineer** with 10+ years of ML/DL experience, specializing in **LLMs, Computer Vision, NLP, Signal Processing, and Quantum Computing**. 
 
-🚀 **Founder & CEO of PIYA.AI** (2023 - Present)
+#### 💡 **Key Innovation: AI Blood Test Analyzer**
 
-🏆 **Key Achievement**: Created the revolutionary <a href="https://www.kantesti.net">**AI Blood Test Analyzer**</a> that:
-- 🩸 Interprets blood tests in **under 2 minutes**
-- 📊 Produces **10-15 pages** of multilingual diagnostic reports
-- 🌍 Supports **75+ languages**
-- ⚡ Processes **3,000+ tests** in ~1.5 minutes
-- 🎯 Achieves **98.7% accuracy** with V8.0 neural network
+As the **Founder & CEO of PIYA.AI**, I invented the revolutionary <a href="https://www.kantesti.net">**AI Blood Test Analyzer**</a> that's transforming global healthcare:
+
+<div align="left">
+  
+```python
+class AIBloodTestAnalyzer:
+    def __init__(self):
+        self.accuracy = "98.7%"
+        self.processing_time = "<2 minutes"
+        self.languages = 75
+        self.reports_generated = "2M+"
+        self.neural_network = "V8.0 - IQ 152"
+    
+    def transform_healthcare(self):
+        return "Making advanced diagnostics accessible worldwide"
+```
+
+</div>
+
+#### 🏆 **Milestones**
+- 🩸 **3,000+ tests** processed simultaneously
+- 📊 **10-15 pages** comprehensive diagnostic reports
+- 🌍 **75+ languages** for global accessibility
+- ⚡ **Real-time API** integration for hospitals & insurers
 
 ---
 
@@ -116,49 +140,50 @@ Features:
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Excellence
 
 <div align="center">
-
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Machine-Learning,Python,Tensorflow)](https://github.com/emirhanai)
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20,%20Framework%20and%20DevOps&badges=Python,Java,Tensorflow,C,Linux,PyTorch,Azure,AWS,Scikit-Learn,GitHub/Git)](https://github.com/emirhanai)
-
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,flask,aws,azure,gcp,docker&theme=dark" alt="Tech Stack Icons" />
 </div>
 
-### 🧠 **Core Expertise**
-<table>
-<tr>
-<td width="33%" align="center">
+<div align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-Expert-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML">
+  <img src="https://img.shields.io/badge/Deep_Learning-Advanced-4CAF50?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL">
+  <img src="https://img.shields.io/badge/Computer_Vision-Specialist-2196F3?style=for-the-badge&logo=opencv&logoColor=white" alt="CV">
+  <img src="https://img.shields.io/badge/NLP-Professional-9C27B0?style=for-the-badge&logo=huggingface&logoColor=white" alt="NLP">
+</div>
 
-**🤖 AI/ML**
-- Large Language Models (LLM)
-- Computer Vision
-- Natural Language Processing
-- Signal Processing
-- Quantum Computing
-
-</td>
-<td width="33%" align="center">
-
-**💻 Languages**
-- Python (Expert)
-- Java, C/C++
-- MATLAB, SQL
-- HTML, JavaScript
-
-</td>
-<td width="33%" align="center">
-
-**🚀 Frameworks**
-- TensorFlow, PyTorch
-- Keras, Scikit-Learn
-- Flask (Full-stack)
-- Azure, AWS, Google Cloud
-
-</td>
-</tr>
-</table>
+### 💻 **Core Technologies**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
+        <br>PyTorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit" />
+        <br>Scikit-Learn
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+        <br>C/C++
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -166,13 +191,13 @@ Features:
 
 <div align="center">
   <img src="https://img.shields.io/badge/🏅_Microsoft_Founders_Hub-$150K_Azure_Support-0078D4?style=for-the-badge" alt="Microsoft">
-  <img src="https://img.shields.io/badge/🧠_MENSA_IQ_133-Top_1%25_Globally-FFD700?style=for-the-badge" alt="MENSA">
+  <img src="https://img.shields.io/badge/🧠_MENSA_IQ_135-Top_1%25_Globally-FFD700?style=for-the-badge" alt="MENSA">
   <img src="https://img.shields.io/badge/🎓_IBM_AI_Engineering-Professional_Certificate-052FAD?style=for-the-badge" alt="IBM">
 </div>
 
 ### 🌟 **Notable Achievements**
 - **2023**: Developed AI-Powered Disaster Relief Tool for Turkey earthquake (Microsoft support)
-- **2024**: Verified MENSA IQ 133 - Top 1% cognitive excellence globally
+- **2024**: Verified MENSA IQ 135 - Top 1% cognitive excellence globally
 - **2021-2022**: Led AI teams at iSAP Solutions (Dubai) & Novosteer (Canada)
 - **Published**: Advanced Quantum Neural Networks with Quantum6G
 
@@ -187,46 +212,32 @@ Features:
 
 ---
 
-## 🌟 Open Source Contributions
+## 🚀 Revolutionary Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+  <a href="https://github.com/emirhanai">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=emirhanai&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph">
+  </a>
+</div>
 
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=emirhanai&repo=Cryptocurrency-Prediction-with-Artificial-Intelligence&locale=en)](https://github.com/emirhanai/Cryptocurrency-Prediction-with-Artificial-Intelligence)
+### 🔬 **Open Source AI Research**
 
-</td>
-<td width="50%">
+<div align="center">
 
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=emirhanai&repo=Age-and-Sex-Prediction-from-Image---Convolutional-Neural-Network-with-Artificial-Intelligence&locale=en)](https://github.com/emirhanai/Age-and-Sex-Prediction-from-Image---Convolutional-Neural-Network-with-Artificial-Intelligence)
+| 🏆 Project | 📝 Description | 🛠️ Technologies | ⭐ Impact |
+|:----------|:--------------|:---------------|:---------|
+| **[💰 Cryptocurrency AI Predictor](https://github.com/emirhanai/Cryptocurrency-Prediction-with-Artificial-Intelligence)** | Advanced ML algorithms for crypto market forecasting | `Python` `TensorFlow` `LSTM` | Financial AI |
+| **[🧬 Age & Gender CNN](https://github.com/emirhanai/Age-and-Sex-Prediction-from-Image---Convolutional-Neural-Network-with-Artificial-Intelligence)** | Deep learning facial analysis system | `CNN` `Keras` `OpenCV` | Biometric AI |
+| **[🌊 NASA Ocean Cleanup AI](https://github.com/emirhanai/NASA-Project-Plastic-Marine-Debris-Classification-Machine-Learning-Software)** | Marine debris classification for environmental protection | `ML` `Satellite Imaging` | Environmental |
+| **[🦠 COVID-19 Variant Detector](https://github.com/emirhanai/Covid-19-Mu-Variant-B.1.621-Prediction-and-Classification-Artificial-Intelligence-Machine-Learning)** | Pandemic response through variant prediction | `Deep Learning` `Healthcare` | Medical AI |
+| **[🌍 Carbon Emission Analyzer](https://github.com/emirhanai/Estimated-annual-CO2-emissions-from-diesel-generators-at-mobile-or-cell-towers)** | Telecom infrastructure environmental impact | `Data Science` `Analytics` | Climate Tech |
+| **[☁️ Ozone Layer Classifier](https://github.com/emirhanai/Classification-thanks-to-the-SVM-model-with-7-years-of-ozone-data-with-Machine-Learning)** | 7-year climate data analysis with SVM | `SVM` `scikit-learn` | Climate AI |
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</div>
 
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=emirhanai&repo=NASA-Project-Plastic-Marine-Debris-Classification-Machine-Learning-Software&locale=en)](https://github.com/emirhanai/NASA-Project-Plastic-Marine-Debris-Classification-Machine-Learning-Software)
-
-</td>
-<td width="50%">
-
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=emirhanai&repo=Covid-19-Mu-Variant-B.1.621-Prediction-and-Classification-Artificial-Intelligence-Machine-Learning&locale=en)](https://github.com/emirhanai/Covid-19-Mu-Variant-B.1.621-Prediction-and-Classification-Artificial-Intelligence-Machine-Learning)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=emirhanai&repo=Estimated-annual-CO2-emissions-from-diesel-generators-at-mobile-or-cell-towers&locale=en)](https://github.com/emirhanai/Estimated-annual-CO2-emissions-from-diesel-generators-at-mobile-or-cell-towers)
-
-</td>
-<td width="50%">
-
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=emirhanai&repo=Classification-thanks-to-the-SVM-model-with-7-years-of-ozone-data-with-Machine-Learning&locale=en)](https://github.com/emirhanai/Classification-thanks-to-the-SVM-model-with-7-years-of-ozone-data-with-Machine-Learning)
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emirhanai&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</div>
 
 ---
 
@@ -273,10 +284,16 @@ Features:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emirhanai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Let's%20Build%20the%20Future%20of%20AI%20Together!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" alt="Footer" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=emirhanai&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/emirhanai?label=Followers&style=for-the-badge&color=00C853" alt="Followers">
   
   <p>
     <strong>© 2025 Julian Emirhan Bulut</strong><br>
-    <em>Transforming Healthcare with AI • Creator of <a href="https://www.kantesti.net">AI Blood Test Analyzer</a></em>
+    <em>🚀 Transforming Healthcare with AI • 🩸 Inventor of <a href="https://www.kantesti.net">AI Blood Test Analyzer</a></em><br>
+    <em>🧠 MENSA IQ 135 • 🌍 Making Advanced Diagnostics Accessible Worldwide</em>
   </p>
 </div>
